@@ -8,3 +8,11 @@ Autenticación Segura: Ingreso de usuarios con verificación de credenciales.
 Gestión de Cuentas: Consulta y edición de información de cuentas.
 Transferencias de Fondos: Realización de transferencias entre cuentas.
 Historial de Transacciones: Visualización de transacciones realizadas.
+
+INTEGRANTES:
+
+Diego Alessandro Abarca Soto       AS230109
+Carlos Javier Sánchez Rodríguez    SR142094
+Carlos Rene Arevalo Caceres        AC223160
+Monica Raquel Iglesias Morales     IM200679
+Denilson Emmanuel Chavez Cruz      CC161302
